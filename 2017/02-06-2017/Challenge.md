@@ -1,3 +1,1 @@
-### Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many decimal places. 
-
-Keep an upper limit of 100 decimal places.
+### Reverse a String - Enter a string and the program will reverse it and print it out.
